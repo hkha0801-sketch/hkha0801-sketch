@@ -58,10 +58,25 @@
     <a href="https://github.com/hkha0801-sketch/Game-UIT20.git">
         <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=hkha0801-sketch&repo=Game-UIT20&theme=gotham" width="45%"/>
     </a>
-    <a href="https://github.com/hkha0801-sketch/QUEU-fe.git">
-        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=hkha0801-sketch&repo=QUEU-fe&theme=gotham" width="45%"/>
-    </a>
 </p>
+
+---
+
+<table align="center">
+<tr>
+<td>
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hkha0801-sketch&layout=compact&theme=gotham" width="100%"/>
+
+</td>
+
+<td>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hkha0801-sketch&theme=gotham" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
