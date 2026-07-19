@@ -1,11 +1,10 @@
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" />
+  <img src="Assets/music.gif" width="700" />
   <br>
   <i>
-    <b>Khi cánh hoa gần đất xa trời <br>
-        À..ơi..<br>
-        Nhưng con thì cứ mãi rong chơi </b>
+    <b>Vậy mà em cứ đổ tội ly vang <br>
+       Kiếm cái cớ, lấy cái cách đưa anh về nhà</b>
   </i>
 </p>
 
@@ -43,7 +42,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hkha0801-sketch&theme=nightowl" width="90%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hkha0801-sketch&theme=gotham" width="90%" />
 </p>
 
 <p align="center">
@@ -54,43 +53,30 @@
 
 ### 🕹️ Featured Projects
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tienminhduong/tienminhduong/78a233d2ffaa538bf1865d355acb646057aa7987/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
 
 <p align="center">
-    <a href="https://github.com/tienminhduong/FoxyAdventure">
-        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=tienminhduong&repo=FoxyAdventure&theme=gotham" width="45%"/>
+    <a href="https://github.com/hkha0801-sketch/Game-UIT20.git">
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=hkha0801-sketch&repo=Game-UIT20&theme=gotham" width="45%"/>
     </a>
-    <a href="https://github.com/tienminhduong/CrocodileInvader">
-        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=tienminhduong&repo=CrocodileInvader&theme=gotham" width="45%"/>
+    <a href="https://github.com/hkha0801-sketch/QUEU-fe.git">
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=hkha0801-sketch&repo=QUEU-fe&theme=gotham" width="45%"/>
     </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="600" />
-</p>
-
-<p align="center">
-  <b> <i>🌟 Thanks for dropping by! 🌟</i></b><br>
 </p>
 
 ---
 
 ### 🎮 Fun facts
 
-If you recognize any of these images, let's connect
+My loved singer🩷
 
 <p align="center">
-<image width="20%" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/13714538-e319-4cce-9062-6941ce18525d/dl1o76z-e4b08b86-2ac5-407f-a97c-0c53a7ec8804.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8xMzcxNDUzOC1lMzE5LTRjY2UtOTA2Mi02OTQxY2UxODUyNWQvZGwxbzc2ei1lNGIwOGI4Ni0yYWM1LTQwN2YtYTk3Yy0wYzUzYTdlYzg4MDQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.W7Lg-YFZF3Eu6vH_QSAKw46cz9vhULmJvn3Qg2ksjc4" />
+<image width="20%" src="Assets/TT.jpg" />
 
-<image width="20%" src="https://res.cloudinary.com/dvmklli0q/image/upload/v1774798729/light_cone_square_3435ba.jpg" />
+<image width="20%" src="Assets/AP.jpg" />
 
-<image width="20%" src="https://static.zerochan.net/Incredible.Ecclesia.the.Virtuous.1024.4158664.webp" />
+<image width="20%" src="Assets/HD.jpeg" />
 
-<image width="20%" src="https://res.cloudinary.com/dvmklli0q/image/upload/v1774799729/evanescia_splash_art_square_614c1b.jpg" />
+<image width="20%" src="Assets/T.jpeg" />
 
 </p>
 
