@@ -1,12 +1,6 @@
 
-<p align="center">
-  <img src="Assets/music.gif" width="700" />
-  <br>
-  <i>
-    <b>Vậy mà em cứ đổ tội ly vang <br>
-       Kiếm cái cớ, lấy cái cách đưa anh về nhà</b>
-  </i>
-</p>
+<!-- HEADER START -->
+<!-- HEADER END -->
 
 ---
 
