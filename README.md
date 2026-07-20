@@ -1,12 +1,13 @@
 <!-- HEADER START -->
 <p align="center">
-  <img src="Assets/music1.gif" width="700" />
+  <img src="Assets/music3.gif" width="700" />
   <br>
   <i>
-    <b>Vậy mà em cứ đổ tội ly vang <br>Kiếm cái cớ, lấy cái cách đưa anh về nhà</b>
+    <b>Là người đầu tiên cầm tay<br>Là người đầu tiên ôm em dưới bầu trời này</b>
   </i>
 </p>
 
+---
 
 <!-- HEADER END -->
 
