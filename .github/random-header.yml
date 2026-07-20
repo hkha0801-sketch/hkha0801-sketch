@@ -4,19 +4,16 @@ on:
   workflow_dispatch:
 
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 * * * *"
 
 permissions:
   contents: write
 
 jobs:
-
   update:
-
     runs-on: ubuntu-latest
 
     steps:
-
       - uses: actions/checkout@v4
 
       - uses: actions/setup-python@v5
@@ -48,7 +45,5 @@ jobs:
           git config user.email github-actions@github.com
 
           git add README.md
-
           git commit -m "Random Header" || exit 0
-
           git push
