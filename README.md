@@ -7,7 +7,6 @@
   </i>
 </p>
 
----
 
 <!-- HEADER END -->
 
@@ -122,9 +121,8 @@
 
 ---
 
-# 🎮 Fun Facts
 
-### 🎧 My loved singers 🩷
+#🎧 My loved singers 🩷
 
 <p align="center">
 
