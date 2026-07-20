@@ -1,12 +1,13 @@
 <!-- HEADER START -->
 <p align="center">
-  <img src="Assets/music6.gif" width="700" />
+  <img src="Assets/music4.gif" width="700" />
   <br>
   <i>
-    <b>Chiêng làng chiêng chạng<br>Thượng hạ tây đông <br> Mấy thời xuân sắc<br> Má đỏ môi trầu <br> Mầu tui lên chùa <br> Xin một quẻ câu duyên </b>
+    <b>Người nói: em điên vì tình! <br> Và nói: em quên cả mình <br> Nói em điên vì một điều hư cấu!</b>
   </i>
 </p>
 
+---
 
 <!-- HEADER END -->
 
