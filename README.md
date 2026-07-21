@@ -1,12 +1,13 @@
 <!-- HEADER START -->
 <p align="center">
-  <img src="Assets/music4.gif" width="700" />
+  <img src="Assets/music7.gif" width="700" />
   <br>
   <i>
-    <b>Người nói: em điên vì tình! <br> Và nói: em quên cả mình <br> Nói em điên vì một điều hư cấu!</b>
+    <b>Thời gian không bao giờ quay ngược đâu<br> Giọt mưa không bao giờ chảy ngược đâu <br> Ta chưa bao giờ quên được nhau <br> Mà cứ mãi giấu tiếng yêu trong đầu </b>
   </i>
 </p>
 
+---
 
 <!-- HEADER END -->
 
