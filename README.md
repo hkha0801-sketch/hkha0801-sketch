@@ -1,9 +1,9 @@
 <!-- HEADER START -->
 <p align="center">
-  <img src="Assets/music1.gif" width="700" />
+  <img src="Assets/music6.gif" width="700" />
   <br>
   <i>
-    <b>Vậy mà em cứ đổ tội ly vang <br>Kiếm cái cớ, lấy cái cách đưa anh về nhà<br> Vậy mà em cứ đổi tội ly vang <br> Kiếm cái cớ, lấy cái cách đưa anh vào tròng </b>
+    <b>Chiêng làng chiêng chạng<br>Thượng hạ tây đông <br> Mấy thời xuân sắc<br> Má đỏ môi trầu <br> Mầu tui lên chùa <br> Xin một quẻ câu duyên </b>
   </i>
 </p>
 
