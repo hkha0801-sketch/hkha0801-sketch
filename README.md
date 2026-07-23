@@ -1,9 +1,9 @@
 <!-- HEADER START -->
 <p align="center">
-  <img src="Assets/music7.gif" width="700" />
+  <img src="Assets/music5.gif" width="700" />
   <br>
   <i>
-    <b>Thời gian không bao giờ quay ngược đâu<br> Giọt mưa không bao giờ chảy ngược đâu <br> Ta chưa bao giờ quên được nhau <br> Mà cứ mãi giấu tiếng yêu trong đầu </b>
+    <b>Biết đâu ta vẫn bên nhau như lần đầu<br>Nếu như ta vẫn cho nhau thêm lần sau<br>Biết đâu ta vẫn bên nhau như lần đầu<br>Biết đâu ta vẫn bên nhau như lần đầu<br>Nếu như ta vẫn cho nhau thêm lần sau<br>Hẹn lần sau...</b>
   </i>
 </p>
 
