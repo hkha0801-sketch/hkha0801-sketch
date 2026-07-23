@@ -11,8 +11,6 @@
 
 <!-- HEADER END -->
 
----
-
 # 💫 About Me
 
 🎮 Game Developer
