@@ -90,6 +90,10 @@
 
 <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=hkha0801-sketch&repo=Game-UIT20&theme=gotham" width="48%"/>
 
+<a href="https://github.com/hkha0801-sketch/QUEU-fe.git">
+
+<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=hkha0801-sketch&repo=QUEU-fe&theme=gotham" width="48%"/>
+  
 </a>
 
 </p>
