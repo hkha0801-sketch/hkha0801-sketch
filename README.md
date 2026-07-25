@@ -88,7 +88,7 @@
 
 <a href="https://github.com/hkha0801-sketch/Game-UIT20">
 
-<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=hkha0801-sketch&repo=Game-UIT20&theme=gotham" width="48%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=hkha0801-sketch&repo=Game-UIT20&theme=gotham" width="51%" />
 
 <a href="https://github.com/hkha0801-sketch/QUEU-fe.git">
 
