@@ -125,7 +125,7 @@
 ---
 
 
-#🎧 My loved singers 🩷
+# 🎧 My loved singers 🩷
 
 <p align="center">
 
