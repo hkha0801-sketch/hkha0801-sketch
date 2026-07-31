@@ -1,9 +1,9 @@
 <!-- HEADER START -->
 <p align="center">
-  <img src="Assets/music6.gif" width="700" />
+  <img src="Assets/music3.gif" width="700" />
   <br>
   <i>
-    <b>Chiêng làng chiêng chạng<br>Thượng hạ tây đông <br> Mấy thời xuân sắc<br> Má đỏ môi trầu <br> Mầu tui lên chùa <br> Xin một quẻ câu duyên </b>
+    <b>Là người đầu tiên cầm tay<br>Là người đầu tiên ôm em dưới bầu trời này</b>
   </i>
 </p>
 
