@@ -1,9 +1,9 @@
 <!-- HEADER START -->
 <p align="center">
-  <img src="Assets/music4.gif" width="700" />
+  <img src="Assets/music2.gif" width="700" />
   <br>
   <i>
-    <b>Người nói: em điên vì tình! <br> Và nói: em quên cả mình <br> Nói em điên vì một điều hư cấu!</b>
+    <b>Chẳng phải tình đầu sao đau đến thế <br>Tại sao vẫn yêu si mê <br> Tại sao trái tim vẫn ngô nghê <br> Vẫn dành trọn lòng mình như thế</b>
   </i>
 </p>
 
