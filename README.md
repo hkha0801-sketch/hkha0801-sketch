@@ -1,9 +1,9 @@
 <!-- HEADER START -->
 <p align="center">
-  <img src="Assets/music1.gif" width="700" />
+  <img src="Assets/music5.gif" width="700" />
   <br>
   <i>
-    <b>Vậy mà em cứ đổ tội ly vang <br>Kiếm cái cớ, lấy cái cách đưa anh về nhà<br> Vậy mà em cứ đổi tội ly vang <br> Kiếm cái cớ, lấy cái cách đưa anh vào tròng </b>
+    <b>Biết đâu ta vẫn bên nhau như lần đầu<br>Nếu như ta vẫn cho nhau thêm lần sau<br>Biết đâu ta vẫn bên nhau như lần đầu<br>Biết đâu ta vẫn bên nhau như lần đầu<br>Nếu như ta vẫn cho nhau thêm lần sau<br>Hẹn lần sau...</b>
   </i>
 </p>
 
