@@ -1,9 +1,9 @@
 <!-- HEADER START -->
 <p align="center">
-  <img src="Assets/music5.gif" width="700" />
+  <img src="Assets/music2.gif" width="700" />
   <br>
   <i>
-    <b>Biết đâu ta vẫn bên nhau như lần đầu<br>Nếu như ta vẫn cho nhau thêm lần sau<br>Biết đâu ta vẫn bên nhau như lần đầu<br>Biết đâu ta vẫn bên nhau như lần đầu<br>Nếu như ta vẫn cho nhau thêm lần sau<br>Hẹn lần sau...</b>
+    <b>Chẳng phải tình đầu sao đau đến thế <br>Tại sao vẫn yêu si mê <br> Tại sao trái tim vẫn ngô nghê <br> Vẫn dành trọn lòng mình như thế</b>
   </i>
 </p>
 
