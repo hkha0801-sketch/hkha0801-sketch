@@ -1,9 +1,9 @@
 <!-- HEADER START -->
 <p align="center">
-  <img src="Assets/music3.gif" width="700" />
+  <img src="Assets/music2.gif" width="700" />
   <br>
   <i>
-    <b>Là người đầu tiên cầm tay<br>Là người đầu tiên ôm em dưới bầu trời này</b>
+    <b>Chẳng phải tình đầu sao đau đến thế <br>Tại sao vẫn yêu si mê <br> Tại sao trái tim vẫn ngô nghê <br> Vẫn dành trọn lòng mình như thế</b>
   </i>
 </p>
 
