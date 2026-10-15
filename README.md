@@ -1,9 +1,9 @@
 <!-- HEADER START -->
 <p align="center">
-  <img src="Assets/music7.gif" width="700" />
+  <img src="Assets/music1.gif" width="700" />
   <br>
   <i>
-    <b>Thời gian không bao giờ quay ngược đâu<br> Giọt mưa không bao giờ chảy ngược đâu <br> Ta chưa bao giờ quên được nhau <br> Mà cứ mãi giấu tiếng yêu trong đầu </b>
+    <b>Vậy mà em cứ đổ tội ly vang <br>Kiếm cái cớ, lấy cái cách đưa anh về nhà<br> Vậy mà em cứ đổi tội ly vang <br> Kiếm cái cớ, lấy cái cách đưa anh vào tròng </b>
   </i>
 </p>
 
