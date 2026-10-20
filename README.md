@@ -1,9 +1,9 @@
 <!-- HEADER START -->
 <p align="center">
-  <img src="Assets/music3.gif" width="700" />
+  <img src="Assets/music4.gif" width="700" />
   <br>
   <i>
-    <b>Là người đầu tiên cầm tay<br>Là người đầu tiên ôm em dưới bầu trời này</b>
+    <b>Người nói: em điên vì tình! <br> Và nói: em quên cả mình <br> Nói em điên vì một điều hư cấu!</b>
   </i>
 </p>
 
