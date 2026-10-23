@@ -1,9 +1,9 @@
 <!-- HEADER START -->
 <p align="center">
-  <img src="Assets/music6.gif" width="700" />
+  <img src="Assets/music7.gif" width="700" />
   <br>
   <i>
-    <b>Chiêng làng chiêng chạng<br>Thượng hạ tây đông <br> Mấy thời xuân sắc<br> Má đỏ môi trầu <br> Mầu tui lên chùa <br> Xin một quẻ câu duyên </b>
+    <b>Thời gian không bao giờ quay ngược đâu<br> Giọt mưa không bao giờ chảy ngược đâu <br> Ta chưa bao giờ quên được nhau <br> Mà cứ mãi giấu tiếng yêu trong đầu </b>
   </i>
 </p>
 
