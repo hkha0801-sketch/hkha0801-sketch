@@ -1,9 +1,9 @@
 <!-- HEADER START -->
 <p align="center">
-  <img src="Assets/music4.gif" width="700" />
+  <img src="Assets/music1.gif" width="700" />
   <br>
   <i>
-    <b>Người nói: em điên vì tình! <br> Và nói: em quên cả mình <br> Nói em điên vì một điều hư cấu!</b>
+    <b>Vậy mà em cứ đổ tội ly vang <br>Kiếm cái cớ, lấy cái cách đưa anh về nhà<br> Vậy mà em cứ đổi tội ly vang <br> Kiếm cái cớ, lấy cái cách đưa anh vào tròng </b>
   </i>
 </p>
 
