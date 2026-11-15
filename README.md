@@ -1,9 +1,9 @@
 <!-- HEADER START -->
 <p align="center">
-  <img src="Assets/music1.gif" width="700" />
+  <img src="Assets/music2.gif" width="700" />
   <br>
   <i>
-    <b>Vậy mà em cứ đổ tội ly vang <br>Kiếm cái cớ, lấy cái cách đưa anh về nhà<br> Vậy mà em cứ đổi tội ly vang <br> Kiếm cái cớ, lấy cái cách đưa anh vào tròng </b>
+    <b>Chẳng phải tình đầu sao đau đến thế <br>Tại sao vẫn yêu si mê <br> Tại sao trái tim vẫn ngô nghê <br> Vẫn dành trọn lòng mình như thế</b>
   </i>
 </p>
 
