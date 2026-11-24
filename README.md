@@ -1,9 +1,9 @@
 <!-- HEADER START -->
 <p align="center">
-  <img src="Assets/music7.gif" width="700" />
+  <img src="Assets/music3.gif" width="700" />
   <br>
   <i>
-    <b>Thời gian không bao giờ quay ngược đâu<br> Giọt mưa không bao giờ chảy ngược đâu <br> Ta chưa bao giờ quên được nhau <br> Mà cứ mãi giấu tiếng yêu trong đầu </b>
+    <b>Là người đầu tiên cầm tay<br>Là người đầu tiên ôm em dưới bầu trời này</b>
   </i>
 </p>
 
